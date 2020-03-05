@@ -1,0 +1,60 @@
+.flex-container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	text-align: center;
+	/*color: rgb(66,69,86);*/
+	/*background-image: url('http://i.imgur.com/BJP2Q1j.jpg');*/
+	background-image: url('../images/vacation.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-weight: 100;
+}
+
+h1 {
+	margin: 0;
+	font-size: 130px;
+	font-weight: 100;
+}
+
+p {
+	font-size: 30px;
+}
+/*
+input {
+	line-height: 1.5;
+	border: none;
+	border-bottom: 3px solid #ebebeb;
+	width: 700px;
+	font-size: 1em;
+	/*color: rgb(66,69,86);*/
+	/*padding: 5px 10px;
+	margin-bottom: 20px;
+	background: transparent;
+}
+
+input[type=text]:focus {
+	outline:none;
+}
+*/
+/*
+button {
+	line-height: 2.0;
+	border: 3px solid white;
+	border-radius: 5px;
+	font-size: 1.4em;
+	color: rgb(66,69,86);
+	padding: 5px 30px;
+	background: rgba(255,255,255,1.0);
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+*/
+
+
